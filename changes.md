@@ -1,0 +1,16 @@
+- Standalone mockup, Balanced only: https://rural-senses-ltd.github.io/report-readability-balanced/
+- Figma, all Balanced cases: https://www.figma.com/design/toyddj4PEriozcxQybp7Sk?node-id=3629-1075
+- Report body: 16px, weight 100, 20px line height → 16px, weight 400, 26px line height. Paragraph spacing → 16px, with 26px before the conclusion.
+- Blue indicator headings: 24px, weight 400 → 24px, weight 600. Light: #56AACC → #28799E. Dark: keep #56AACC.
+- Indicator descriptions: 12.5px/18.75px → 15px/22.5px. Black/white at 87% opacity → #4D4D4D in light mode and #E9ECEF in dark mode.
+- Quotes: 14.5px/21.75px → 15px/22.5px. Expanded text: green → the same body colour as collapsed text.
+- Topics, sentiment tabs and “Read more”: 13px → 14px with 21px line height. Supporting labels: standardise at 14px. Current-value label colour: #6A7282 → #59636E in light mode, #C9CCD1 in dark mode.
+- Report links, including visited: grey (#748592 light / #8DA3B4 dark), no underline → blue (#0A6286 light / #56AACC dark), always underlined. Underline: 1px with 3px offset.
+- Link hover/pressed: same grey → #074663 light / #8EC3DA dark, with a 2px underline. Keyboard focus → a 2px blue outline with 3px offset.
+- Topic tags: 12px white text → 14px #111827 text on the existing sentiment colours. With sentiment hidden, use the normal body colour.
+- Selected sentiment tab: 13px white text on grey → 14px #1F2634 text on #C9CCD1, with a 2px blue outline.
+- Confidence badge: 10px/12px → 13px/18.2px. Orange #E65100 → #974500 light / #FFB86B dark. Sentiment legend: 11px → 13px/18.2px.
+- Chart line: 1px #498264 → 2px, #3A6850 light / #84CBA5 dark. Grid: #9B9B9A → #D9DFE5 light / #485168 dark. Axis labels: #666666 → #59636E light / #C9CCD1 dark, keeping 14px size.
+- Filter notices: white text on #56AACC → white on #0A6286 in light mode, #1F2634 text on #56AACC in dark mode.
+- Long labels and narrow layouts: squeezed topic names/values and wrapping “Split by” → wrap topic names, keep percentages fixed, keep “Split by” on one line, and stack card columns below 700px.
+- Platform styling: keep Manrope, neutral document section headings, existing page/card backgrounds and semantic sentiment colours.
